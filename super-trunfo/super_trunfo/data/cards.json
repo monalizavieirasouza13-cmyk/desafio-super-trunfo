@@ -1,0 +1,58 @@
+[
+  {
+    "nome": "Sergipe",
+    "area_km2": 21915,
+    "pop_milhoes": 2.3,
+    "idh": 0.665,
+    "pib_bilhoes": 55
+  },
+  {
+    "nome": "Bahia",
+    "area_km2": 564733,
+    "pop_milhoes": 15.1,
+    "idh": 0.66,
+    "pib_bilhoes": 360
+  },
+  {
+    "nome": "São Paulo",
+    "area_km2": 248209,
+    "pop_milhoes": 44.4,
+    "idh": 0.783,
+    "pib_bilhoes": 2600
+  },
+  {
+    "nome": "Rio de Janeiro",
+    "area_km2": 43780,
+    "pop_milhoes": 17.3,
+    "idh": 0.796,
+    "pib_bilhoes": 800
+  },
+  {
+    "nome": "Minas Gerais",
+    "area_km2": 586528,
+    "pop_milhoes": 21.4,
+    "idh": 0.774,
+    "pib_bilhoes": 950
+  },
+  {
+    "nome": "Paraná",
+    "area_km2": 199307,
+    "pop_milhoes": 11.6,
+    "idh": 0.787,
+    "pib_bilhoes": 600
+  },
+  {
+    "nome": "Pernambuco",
+    "area_km2": 98149,
+    "pop_milhoes": 9.7,
+    "idh": 0.673,
+    "pib_bilhoes": 260
+  },
+  {
+    "nome": "Ceará",
+    "area_km2": 148920,
+    "pop_milhoes": 9.1,
+    "idh": 0.7,
+    "pib_bilhoes": 210
+  }
+]
